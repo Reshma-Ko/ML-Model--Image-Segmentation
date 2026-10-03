@@ -41,8 +41,7 @@ python image_segmentation.py
 ```
 
 Expects `training_image.jpg`, `training_mask.png`, `testing_image1.jpg`,
-`testing_image2.jpg` in the working directory. **Dataset not included in
-this repo** — see note below.
+`testing_image2.jpg` in the working directory. 
 
 ## Limitations
 
