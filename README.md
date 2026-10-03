@@ -48,8 +48,4 @@ Expects `training_image.jpg`, `training_mask.png`, `testing_image1.jpg`,
 Trained on a single image, which limits generalisation to unseen lighting
 and scene conditions, and to underrepresented classes.
 
-## Data
 
-The training/testing images and masks used for this project are not
-included here. If you're adapting this for your own use, supply your own
-aerial imagery and corresponding pixel-label masks in the same format.
